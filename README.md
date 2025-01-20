@@ -5,7 +5,7 @@
 <div size='20px'> Full Stack Blockchain Developer <br>
 
   <br>
-  Blockahin technology is changing the business world with innovative and transparent solutions.
+  Blockchain technology is changing the business world with innovative and transparent solutions.
   
 </div>
 
