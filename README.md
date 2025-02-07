@@ -10,7 +10,7 @@
 </div>
 
 <h2> About Me </h2>
-I am passionate about the world of technology, innovation and business. Currently, after more than a year in Full Stack development, I am taking the step into the world of Blockchain/Web3 development.
+I am passionate about the world of technology, innovation and business. Currently, after Full Stack development, I am taking the step into the world of Blockchain/Web3 development.
 <br>
 <br>
 I consider myself a person who is always up to date with the latest trends in technology to never be left behind. I want to grow and see what the world of technology has in store for me.
