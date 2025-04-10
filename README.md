@@ -27,6 +27,6 @@ Technology never dies.
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,react,nodejs,mysql,solidity,rust,go," />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,react,nodejs,mysql,solidity" />
   </a>
 
